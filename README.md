@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 ### Working Link: https://budgetapp-543dd.web.app/
 
-![image](https://user-images.githubusercontent.com/54637394/113638697-754fb580-9645-11eb-9047-6a9ef4fd6df7.png)
+![image](https://user-images.githubusercontent.com/54637394/113705044-f1c8af80-96aa-11eb-8e9c-6a1ae972e99b.png)
 
 ### `npm start`
 
